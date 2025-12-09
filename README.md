@@ -1,76 +1,73 @@
-# Hi there, I'm Joshua! 👋🇮🇹
-
 <div align="center">
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:C71585&height=220&section=header&text=JoshusSarn&fontSize=70&fontColor=ffffff&fontAlignY=35)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:C71585&height=230&section=header&text=JoshusSarn&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn)
 
-**Founder of BloodRose Studio 🌹 | Engineering Student @ UNISA | Building Worlds**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+of+BloodRose+Studio+🌹;Engineering+Student+%40+UNISA+🇮🇹;GameDev+Learner;Low-Level+Logic+Lover+💀&font=Fira+Code&center=true&width=500&height=30&color=ff69b4&vCenter=true&pause=1000" alt="Typing Effect" />
+</a>
 
-[![](https://img.shields.io/badge/Founder-BloodRose%20Studio-red?style=flat-square&logo=cplusplus)](https://github.com/Joshus0)
-[![](https://img.shields.io/badge/Focus-Game%20Dev-blueviolet?style=flat-square&logo=unity)](https://github.com/Joshus0)
-[![](https://img.shields.io/badge/University-UNISA-inactive?style=flat-square&logo=git)](https://www.unisa.it/)
+<br>
+
+[![](https://img.shields.io/badge/Founder-BloodRose_Studio-dc143c?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Joshus0)
+[![](https://img.shields.io/badge/Focus-Game_Dev-blueviolet?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Joshus0)
+[![](https://img.shields.io/badge/Uni-UNISA_Salerno-ff4500?style=for-the-badge&logo=git&logoColor=white)](https://www.unisa.it/)
 
 </div>
 
 ---
 
-### 🩸 About Me & The Mission
+### ⚡ Mission Directive & BloodRose Protocol
 
-I'm an 18-year-old Software Engineering student at **University of Salerno (UNISA)**, driven by a need to create immersive experiences, not just consume them.
+I'm an 18-year-old Software Engineering student at **UNISA**, dissecting the machine to rebuild it better. I don't just write code; I engineer experiences.
 
-I don't just study code; I deploy it. While mastering the low-level fundamentals of **C** at university, I founded my own indie game initiative to put theory into practice immediately.
-
----
-
-### 🌹 BloodRose Studio
+While mastering low-level **C** fundamentals at university, I established my own indie initiative to deploy theory into reality immediately.
 
 <div align="center">
   
-> **"Indie spirit, professional ambition."**
+> **🏙️ BloodRose Studio: "Injecting soul into the machine."**
 
 </div>
 
-I am the founder and lead developer of **BloodRose Studio**.
-This is where my engineering studies meet creative chaos. We are currently in the R&D phase, conceptualizing our first projects and building the necessary tooling.
-
-* **Role:** Founder & Lead Programmer.
-* **Focus:** Developing core gameplay mechanics and custom systems.
-* **Status:** Laying the foundations. 🚧
+As Founder and Lead Developer, I am bridging the gap between academic engineering and chaotic creativity. We are currently in the R&D phase, architecting the systems for our debut project.
 
 ---
 
-### 🛠️ The Arsenal
+### 🛠️ The Cyberdeck / Arsenal
 
-My philosophy is to understand the machine deeply (C) to better command the engines later (C++/C#).
+My toolkit is designed for deep system control and rapid prototyping.
 
-#### The Core (Daily Drivers)
-* 💻 **C** — My foundation. Learning memory management the hard way to build optimized systems.
-* 🐍 **Python** — For quick scripting, automation, and prototyping ideas.
-
-#### The Game Dev Path (Loading...)
-* 🎮 **C++ & C#** — Studying modern engine architecture (Unity/Unreal context).
-* ☕ **Java** — Exploring Object-Oriented Programming patterns.
-
----
-
-
-
-### 📊 GitHub Stats
 <div align="center">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+
+| Tech Stack | Badge | Proficiency Level | Data Log |
+| :--- | :---: | :--- | :--- |
+| **THE CORE** | | | |
+| **C** | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> | ⭐⭐⭐⭐ | My foundation. Memory management & low-level logic. |
+| **GMS 2** | <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" /> | ⭐⭐⭐⭐ | Advanced competence. Previous main engine. |
+| **ENGINES (R&D)**| | | |
+| **Unity** | <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" /> | ⭐⭐ | Studying architecture & C# scripting context. |
+| **Unreal** | <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" /> | ⭐⭐ | Exploring high-fidelity dev & C++ context. |
+| **BACKEND & DATA**| | | |
+| **PHP** | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> | ⭐⭐ | Server-side basics. |
+| **SQL** | <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> | ⭐⭐ | Database querying fundamentals. |
+| **SCRIPTING** | | | |
+| **Python** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | ⭐⭐ | Automation and rapid prototyping. |
+| **Java** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | ⭐⭐ | OOP Concepts structure. |
+| **WEB MATRIX** | | | |
+| **HTML5** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | ⭐ | Basic structure scaffolding. |
+| **CSS3** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | ⭐ | Basic styling protocols. |
+| **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | ⭐ | Basic interactivity scripting. |
+
 </div>
--->
 
 ---
 
-### 🤝 Connect
+### 📡 Establish Connection
 
-Open to collaboration on game jams, complex C puzzles, or discussing indie dev struggles.
+Open to collaboration on game jams, complex C memory puzzles, or discussing indie dev architecture.
 
 <div align="center">
   <br>
-  <i>"Non dobbiamo competere con le macchine sull'intelligenza, ma sulla coscienza e sulla creatività."</i>
+  <i>"The future is already here – it's just not evenly distributed."</i>
   <br>
-  — <b>Federico Faggin</b>
+  — <b>William Gibson</b> (Father of Cyberpunk)
 </div>
