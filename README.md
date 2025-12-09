@@ -42,7 +42,7 @@ My toolkit is designed for deep system control and rapid prototyping.
 | :--- | :---: | :--- | :--- |
 | **THE CORE** | | | |
 | **C** | <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> | ⭐⭐⭐⭐ | My foundation. Memory management & low-level logic. |
-| **GMS 2** | <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" /> | ⭐⭐⭐⭐ | Advanced competence. Previous main engine. |
+| **GMS 2** | <img src="https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white" /> | ⭐⭐⭐⭐ | Advanced competence. Main engine. |
 | **ENGINES (R&D)**| | | |
 | **Unity** | <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" /> | ⭐⭐ | Studying architecture & C# scripting context. |
 | **Unreal** | <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=flat-square&logo=unrealengine&logoColor=white" /> | ⭐⭐ | Exploring high-fidelity dev & C++ context. |
@@ -60,6 +60,11 @@ My toolkit is designed for deep system control and rapid prototyping.
 </div>
 
 ---
+### CURRENT PROJECTS
+
+Im currently working on **ECHOLOCATION** a 2D Puzzle game where the only way you can see is by **HEARING**
+
+Go see it yourself: https://bloodrose-studio.itch.io/
 
 ### 📡 Establish Connection
 
