@@ -2,70 +2,66 @@
 
 <div align="center">
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00bcf2&height=200&section=header&text=Aspiring%20Game%20Dev%20&%20Engineer&fontSize=40&fontColor=ffffff&fontAlignY=35)
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,100:2E8B57&height=200&section=header&text=JoshusSarn&fontSize=70&fontColor=ffffff&fontAlignY=35)
+**Engineering Student @ UNISA | 18 Years Old | Building Worlds 🐺🌹**
 
-**Software Engineering Student @ UNISA | 18 Years Old | Robotics Enthusiast**
-
-[![](https://img.shields.io/badge/Made%20in-Italy-green?style=flat-square)](https://github.com/TUO_USERNAME_QUI)
-[![](https://img.shields.io/badge/Focus-Game%20Dev-blueviolet?style=flat-square)](https://github.com/TUO_USERNAME_QUI)
+[![](https://img.shields.io/badge/Made%20in-Italy-green?style=flat-square)](https://github.com/Joshus0)
+[![](https://img.shields.io/badge/Focus-Game%20Dev-blueviolet?style=flat-square)](https://github.com/Joshus0)
 [![](https://img.shields.io/badge/University-UNISA-red?style=flat-square)](https://www.unisa.it/)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🐺 About Me
 
-I am an 18-year-old student currently pursuing a degree in **Computer Engineering** (Software focus) at the **University of Salerno (UNISA)**.
-I have a deep fascination for low-level logic, allowing me to understand exactly how software interacts with hardware.
+I'm an 18-year-old student at **University of Salerno (UNISA)** with a curiosity that's hard to satisfy.
+I've always been the kind of person who wants to know *exactly* how things work under the hood. That's why I love **C** and low-level programming: I want to talk to the machine, not just use it.
 
-* 🔭 **I’m currently studying:** Advanced C programming and Memory Management.
-* 🌱 **I’m exploring:** The logic behind Game Engines and Robotic Systems.
-* 🎯 **My Goal:** To become a professional Game Developer and bring virtual worlds to life.
-* ⚡ **Fun Fact:** I love digging into code to see "what's under the hood."
+Currently, I'm blending my engineering studies with my creative passion: **Game Development**. I believe code is just a tool to create experiences.
+
+* 🔭 **Current Quest:** Mastering pointers and memory management in C.
+* 🌱 **Learning Path:** Exploring the math behind Game Engines and Robotics.
+* 🎯 **The Dream:** To engineer software that feels alive.
+* ⚡ **Offline:** You'll find me thinking about game mechanics or tinkering with hardware.
 
 ---
 
-### 🛠️ Languages & Arsenal
+### 🛠️ The Toolkit
 
-Here is a breakdown of my technical skills and what I am learning.
+My arsenal is growing. I focus on understanding the fundamentals first.
 
-#### 🏆 Core Competency (Academic Focus)
-These are the tools I use daily for university and personal deep-dives.
-
-| Language | Proficiency | Context |
+| Language | Proficiency | My take on it |
 | :--- | :---: | :--- |
-| **C** | ⭐⭐⭐⭐ | *Main Focus.* Pointers, Memory Allocation, Data Structures. |
-
-#### 🚀 Exploring & Learning
-Languages I have experimented with and plan to master for Game Dev.
-
-* 🐍 **Python** (Scripting & Automation)
-* ☕ **Java** (OOP Concepts)
-* 🎮 **C++** (Future Game Dev engine work)
-* 👾 **C#** (Unity scripting basics)
+| **C** | ⭐⭐⭐⭐ | *The roots.* It teaches me discipline and how memory really works. |
+| **Python** | ⭐⭐⭐ | Great for quick scripts and automation. |
+| **Java** | ⭐⭐ | Learning OOP patterns and structure. |
+| **C++ / C#** | ⚙️ | *Loading...* Studying these for Game Engines (Unity/Unreal). |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27" />
 </a>
 
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect
 
-I am always open to discussing **Game Dev**, **Robotics**, or just solving complex C pointers puzzles!
+Open to collaboration on student projects, game jams, or just chatting about tech.
 
 <div align="center">
-  <i>"Talk is cheap. Show me the code."</i> — Linus Torvalds
+  <br>
+  <i>"Non dobbiamo competere con le macchine sull'intelligenza, ma sulla coscienza e sulla creatività."</i>
+  <br>
+  — <b>Federico Faggin</b> (Father of the Microprocessor)
 </div>
