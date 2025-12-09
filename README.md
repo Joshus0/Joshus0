@@ -45,10 +45,11 @@ My arsenal is growing. I focus on understanding the fundamentals first.
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=1a1b27" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 </div>
