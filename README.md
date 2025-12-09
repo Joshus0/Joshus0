@@ -2,67 +2,75 @@
 
 <div align="center">
 
-![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:2F4F4F,100:2E8B57&height=200&section=header&text=JoshusSarn&fontSize=70&fontColor=ffffff&fontAlignY=35)
-**Engineering Student @ UNISA | 18 Years Old | Building Worlds 🐺🌹**
+![Header Image](https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:C71585&height=220&section=header&text=JoshusSarn&fontSize=70&fontColor=ffffff&fontAlignY=35)
 
-[![](https://img.shields.io/badge/Made%20in-Italy-green?style=flat-square)](https://github.com/Joshus0)
-[![](https://img.shields.io/badge/Focus-Game%20Dev-blueviolet?style=flat-square)](https://github.com/Joshus0)
-[![](https://img.shields.io/badge/University-UNISA-red?style=flat-square)](https://www.unisa.it/)
+**Founder of BloodRose Studio 🌹 | Engineering Student @ UNISA | Building Worlds**
+
+[![](https://img.shields.io/badge/Founder-BloodRose%20Studio-red?style=flat-square&logo=cplusplus)](https://github.com/Joshus0)
+[![](https://img.shields.io/badge/Focus-Game%20Dev-blueviolet?style=flat-square&logo=unity)](https://github.com/Joshus0)
+[![](https://img.shields.io/badge/University-UNISA-inactive?style=flat-square&logo=git)](https://www.unisa.it/)
 
 </div>
 
 ---
 
-### 🐺 About Me
+### 🩸 About Me & The Mission
 
-I'm an 18-year-old student at **University of Salerno (UNISA)** with a curiosity that's hard to satisfy.
-I've always been the kind of person who wants to know *exactly* how things work under the hood. That's why I love **C** and low-level programming: I want to talk to the machine, not just use it.
+I'm an 18-year-old Software Engineering student at **University of Salerno (UNISA)**, driven by a need to create immersive experiences, not just consume them.
 
-Currently, I'm blending my engineering studies with my creative passion: **Game Development**. I believe code is just a tool to create experiences.
-
-* 🔭 **Current Quest:** Mastering pointers and memory management in C.
-* 🌱 **Learning Path:** Exploring the math behind Game Engines and Robotics.
-* 🎯 **The Dream:** To engineer software that feels alive.
-* ⚡ **Offline:** You'll find me thinking about game mechanics or tinkering with hardware.
+I don't just study code; I deploy it. While mastering the low-level fundamentals of **C** at university, I founded my own indie game initiative to put theory into practice immediately.
 
 ---
 
-### 🛠️ The Toolkit
-
-My arsenal is growing. I focus on understanding the fundamentals first.
-
-| Language | Proficiency | My take on it |
-| :--- | :---: | :--- |
-| **C** | ⭐⭐⭐⭐ | *The roots.* It teaches me discipline and how memory really works. |
-| **Python** | ⭐⭐⭐ | Great for quick scripts and automation. |
-| **Java** | ⭐⭐ | Learning OOP patterns and structure. |
-| **C++ / C#** | ⚙️ | *Loading...* Studying these for Game Engines (Unity/Unreal). |
-
----
-
-### 📊 GitHub Stats
+### 🌹 BloodRose Studio
 
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-</a>
+  
+> **"Indie spirit, professional ambition."**
 
 </div>
+
+I am the founder and lead developer of **BloodRose Studio**.
+This is where my engineering studies meet creative chaos. We are currently in the R&D phase, conceptualizing our first projects and building the necessary tooling.
+
+* **Role:** Founder & Lead Programmer.
+* **Focus:** Developing core gameplay mechanics and custom systems.
+* **Status:** Laying the foundations. 🚧
+
+---
+
+### 🛠️ The Arsenal
+
+My philosophy is to understand the machine deeply (C) to better command the engines later (C++/C#).
+
+#### The Core (Daily Drivers)
+* 💻 **C** — My foundation. Learning memory management the hard way to build optimized systems.
+* 🐍 **Python** — For quick scripting, automation, and prototyping ideas.
+
+#### The Game Dev Path (Loading...)
+* 🎮 **C++ & C#** — Studying modern engine architecture (Unity/Unreal context).
+* ☕ **Java** — Exploring Object-Oriented Programming patterns.
+
+---
+
+
+
+### 📊 GitHub Stats
+<div align="center">
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+</div>
+-->
 
 ---
 
 ### 🤝 Connect
 
-Open to collaboration on student projects, game jams, or just chatting about tech.
+Open to collaboration on game jams, complex C puzzles, or discussing indie dev struggles.
 
 <div align="center">
   <br>
   <i>"Non dobbiamo competere con le macchine sull'intelligenza, ma sulla coscienza e sulla creatività."</i>
   <br>
-  — <b>Federico Faggin</b> (Father of the Microprocessor)
+  — <b>Federico Faggin</b>
 </div>
