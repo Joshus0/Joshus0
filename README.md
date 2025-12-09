@@ -52,10 +52,10 @@ Languages I have experimented with and plan to master for Game Dev.
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME_QUI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Joshus0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME_QUI&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshus0&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
